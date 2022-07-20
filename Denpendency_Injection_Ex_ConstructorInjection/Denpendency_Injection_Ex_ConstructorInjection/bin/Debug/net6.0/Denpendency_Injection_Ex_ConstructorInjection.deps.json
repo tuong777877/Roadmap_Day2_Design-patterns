@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Denpendency_Injection_Ex_ConstructorInjection/1.0.0": {
+        "runtime": {
+          "Denpendency_Injection_Ex_ConstructorInjection.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Denpendency_Injection_Ex_ConstructorInjection/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
